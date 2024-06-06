@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="left">Hello world</h1>
 
-<!--
-**Victor-Saraiva-P/Victor-Saraiva-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">🇧🇷 Meu Victor e sou um estudante de federal em Ciências da Computação na UFAPE<br><br>🇺🇸 My Victor and I am a federal student in Computer Science at UFAPE</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Um pouco sobre mim</h2>
+
+###
+
+<p align="left">📚 Período: atualmente estou no 2º período<br>🎯 Meta: conseguir uma vaga no mercado de trabalho e me desenvolver como profissional de tecnologia</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
