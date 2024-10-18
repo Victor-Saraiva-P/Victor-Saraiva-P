@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Período: atualmente estou no 2º período<br>🎯 Meta: conseguir uma vaga no mercado de trabalho e me desenvolver como profissional de tecnologia</p>
+<p align="left">📚 Período: atualmente estou no 3º período<br>🎯 Meta: conseguir uma vaga no mercado de trabalho e me desenvolver como profissional de tecnologia</p>
 
 ###
 
