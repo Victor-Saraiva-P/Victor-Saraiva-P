@@ -12,7 +12,7 @@
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,java,kotlin,c,nodejs,nestjs,spring,mongodb,postgres,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,ts,js,java,python,kotlin,c,nodejs,nestjs,spring,mongodb,postgres,aws)](https://skillicons.dev)
 
 ### Github Stats 
 
