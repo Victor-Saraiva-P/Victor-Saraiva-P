@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 🚀 
+<h1 align="center">Hi there! 
   
    I’m Victor Saraiva 😄
 </h1>
