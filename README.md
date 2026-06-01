@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 
   
-   I’m Victor Saraiva 😄
+   I’m Victor Pimentel 😄
 </h1>
 
 
